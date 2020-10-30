@@ -6,3 +6,4 @@ __pycache__
 staticfiles
 .DS_Store
 __MACOSX
+.ipynb_checkpoints/
